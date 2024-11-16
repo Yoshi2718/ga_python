@@ -8,3 +8,4 @@ joblib==1.2.0
 matplotlib==3.7.2
 xgboost==2.1.2
 catboost==1.2.7
+setuptools>=40.0.0
