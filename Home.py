@@ -12,7 +12,7 @@ st.markdown(
             position: relative;
             width: 100%;
             height: 80vh;
-            background-image: url('https://user-images.githubusercontent.com/73824871/110596895-2c106100-8180-11eb-948e-7bc0658286f6.png');
+            background-image: url('https://www.fcnp.com/wp-content/uploads/2019/05/913bikeshareWEB.jpg');
             background-size: cover;
             background-position: center;
             display: flex;
