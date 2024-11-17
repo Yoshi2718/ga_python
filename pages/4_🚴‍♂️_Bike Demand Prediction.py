@@ -37,7 +37,7 @@ def user_input_features():
     st.subheader("📅 Calender Features")
 
     # Date and Time Picker
-    date = st.date_input("Select Date", datetime.today())
+    date = st.date_input("Select Date", value = datetime.today(), min_value=datetime(2011, 1, 1))
 
     # Dropdown for selecting time in 15-minute intervals
     time_options = generate_time_options()
